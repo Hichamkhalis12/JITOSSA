@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "212619506922"
 //يمكنك إضافة رقمك للتحكم في البوت أو إن طلب شخص رقمك من البوت
 global.owner = [
   ['212619506922', 'Hicham', true],
@@ -23,9 +23,9 @@ global.wm = 'HICHAM';
 global.titulowm = 'hicham boot';
 global.titulowm2 = `hicham boot`
 global.igfg = 'hicham boot';
-global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *متابعة للمطور في إنستجرام* \n*_hicham khalis_1_*';
-global.waitt = '> سوف أجيب عن سؤالك بعد قليل ...';
-global.waittt = '> سوف يتم رسم صورتك بعد قليل ...';
+global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *اروجوك لا تستعمله في اشياء خبيتا* \n*_hicham khalis_1_*';
+global.waitt = '>  انتضر قليلا ادا لم تيم الارسال فأدات فيها مشكل ما ...';
+global.waittt = '>   انتضر قليلا ان لم يتم الارسال فأدات فيها مشكل ما ...';
 global.rwait = '⏳';
 global.done = '✅';
 
